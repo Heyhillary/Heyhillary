@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heyhillary
+- 👋 Hi, I’m @Heyhillary , Common Voice Community Manager at Mozilla Foundation !
 - 👀 I’m interested in open source communities 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
